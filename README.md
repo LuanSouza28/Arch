@@ -4,6 +4,7 @@
  e cole o tema Arch,atualize o grub com os comandos:
  
 sudo grub-mkconfig -o /boot/grub/grub.cfg
+
 update-grub
 
 
