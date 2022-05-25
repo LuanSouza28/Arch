@@ -24,3 +24,7 @@ não localiza o arquivo theme.txt
 papel de parede errado,
 
 Edite e salve tudo certinho,Por fim reinicie.
+
+Para baixar pelo terminal :
+
+git clone https://github.com/LuanSouza28/Arch.git
