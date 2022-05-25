@@ -11,6 +11,7 @@ update-grub
 #############################################
 
 se não funcionar,instale o grub-customizer :
+
 sudo pacman -S grub-customizer
 despois verifique se há algo de errado em configurações avançadas.
 
