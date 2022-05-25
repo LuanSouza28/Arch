@@ -21,6 +21,6 @@ despois verifique se há algo de errado em configurações avançadas.
 
 "Erros comuns"
 não localiza o arquivo theme.txt
-papel de parede errado.
+papel de parede errado,
 
 Edite e salve tudo certinho,Por fim reinicie.
